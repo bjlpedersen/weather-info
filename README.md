@@ -1,3 +1,3 @@
 # weather-info
-Get weather info from an API.
+Get weather info from an API.  
 Bjork
